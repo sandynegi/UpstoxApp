@@ -1,0 +1,36 @@
+{
+  "configurations" : [
+    {
+      "id" : "5DD76C38-4091-489B-A15F-30CB4F5D5225",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:UpstoxApp.xcodeproj",
+      "identifier" : "A0C172AA2CE1B9E400C69A28",
+      "name" : "UpstoxApp"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:UpstoxApp.xcodeproj",
+        "identifier" : "A0C172C02CE1B9E500C69A28",
+        "name" : "UpstoxAppTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:UpstoxApp.xcodeproj",
+        "identifier" : "A0C172CA2CE1B9E500C69A28",
+        "name" : "UpstoxAppUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
