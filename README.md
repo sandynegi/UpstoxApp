@@ -46,3 +46,15 @@ Note: We may reject your application if
 5. You do not have unit tests in your application with decent code coverage.
 6. Your unit tests fail.
 7. If auto layout engine throws constraints error during runtime.
+
+
+
+# TestCases Screenshot
+<p align="center">
+    <img src="MediaAssets/TestCases_Screenshot.png" width="1200" max-width="90%" alt="TestCases Screenshot" />
+</p>
+
+# TestCases Coverage Screenshot
+<p align="center">
+    <img src="MediaAssets/TestCases_Coverage_Screenshot.png" width="1200" max-width="90%" alt="TestCases Coverage Screenshot" />
+</p>
